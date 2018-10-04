@@ -1,10 +1,2 @@
-<<<<<<< Updated upstream
-Dette er første dokumente som ble laget nå av Jonas.
-<<<<<<< HEAD
-=======
-Dette er første dokumente som ble laget nå av Jonas.
+Dette er fï¿½rste dokumente som ble laget nï¿½ av Jonas.
 Martin har gjort en endring med skrive feil.
->>>>>>> Stashed changes
-=======
-Martin har gjort en endring med skrive feil.
->>>>>>> master
