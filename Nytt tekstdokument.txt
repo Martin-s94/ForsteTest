@@ -1,4 +1,6 @@
 Dette er første dokumente som ble laget nå av Jonas.
 Martin har gjort en endring med skrive feil.
 
-opggave: gjør en commit!
+opggave: 
+-gjør en commit!
+-Gjør en oppgave til!
